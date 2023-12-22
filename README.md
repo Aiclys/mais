@@ -11,10 +11,10 @@ along with applications and utilities I use everyday. This Script has an automat
 
 ## **Create a bootable USB Stick**
 
-**Step 1**
+### **Step 1**
 Go to https://archlinux.org/download/ and download the ArchISO
 
-**Step 2**
+### **Step 2**
 Download [Balena Etcher](https://etcher.balena.io/#download-etcher) or [Ventoy](https://www.ventoy.net/en/download.html)
 and flash the ISO on a USB stick
 
