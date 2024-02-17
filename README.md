@@ -1,4 +1,4 @@
-# **ThreeArch Installer Script**
+# **My Arch Installation Script**
 
 This is an Arch Install scipt I made. It installs a fully-functional Arch Linux installation
 containing a desktop environment or a window manager with alot of extra packages (networking, bluetooth, audio etc.)
