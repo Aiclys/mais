@@ -19,4 +19,4 @@ Download [Balena Etcher](https://etcher.balena.io/#download-etcher) or [Ventoy](
 and flash the ISO on a USB stick
 
 
-## **Using the threearch script**
+## **Using MAIS**
