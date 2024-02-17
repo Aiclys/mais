@@ -14,11 +14,11 @@ echo -ne "
    ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝
 
 -------------------------------------------------------------------------
-                  Threenineone's Arch Linux Installer
+                  My Arch Linux Installation Script
 -------------------------------------------------------------------------
 
                                CREDITS:
-                    www.github.com/Aiclys/ThreeArch
+                    www.github.com/Aiclys/mais
 
 
 "
